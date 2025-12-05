@@ -19,6 +19,9 @@
                 <p>
                     <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
                 </p>
+                <p>
+    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+</p>
             </section>
             <section class="col-md-4" aria-labelledby="librariesTitle">
                 <h2 id="librariesTitle">Get more libraries</h2>
