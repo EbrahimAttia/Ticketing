@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\fabio\\source\\repos\\Ticketing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|c:\\users\\fabio\\source\\repos\\ticketing\\ticketing\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|c:\\users\\fabio\\source\\repos\\ticketing\\ticketing\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\gestioneticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\gestioneticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\gestioneutenti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\gestioneutenti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\gestionesocieta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\gestionesocieta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:Ticketing\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+      "AbsoluteMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|C:\\Users\\fabio\\source\\repos\\Ticketing\\ticketing\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{0BD7F609-DC23-40E5-B1A5-FA48FA982F32}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "Ticketing\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Dashboard.aspx",
+              "RelativeToolTip": "Ticketing\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-09T14:07:03.086Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -46,20 +83,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Web.config",
-              "RelativeDocumentMoniker": "Ticketing\\Web.config",
-              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Web.config",
-              "RelativeToolTip": "Ticketing\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-12-09T10:58:19.536Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "Ticketing\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\ViewSwitcher.ascx",
+              "RelativeToolTip": "Ticketing\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-12-09T16:21:22.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestioneUtenti.aspx",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneUtenti.aspx",
+              "RelativeDocumentMoniker": "Ticketing\\GestioneUtenti.aspx",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneUtenti.aspx",
+              "RelativeToolTip": "Ticketing\\GestioneUtenti.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-09T15:46:13.956Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GestioneTicket.aspx",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneTicket.aspx",
+              "RelativeDocumentMoniker": "Ticketing\\GestioneTicket.aspx",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneTicket.aspx",
+              "RelativeToolTip": "Ticketing\\GestioneTicket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-09T15:46:09.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestioneSocieta.aspx",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneSocieta.aspx",
+              "RelativeDocumentMoniker": "Ticketing\\GestioneSocieta.aspx",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\GestioneSocieta.aspx",
+              "RelativeToolTip": "Ticketing\\GestioneSocieta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-09T15:46:04.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Site.Master",
               "RelativeDocumentMoniker": "Ticketing\\Site.Master",
@@ -67,7 +139,33 @@
               "RelativeToolTip": "Ticketing\\Site.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-12-09T10:58:19.54Z"
+              "WhenOpened": "2025-12-09T14:22:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Web.config",
+              "RelativeDocumentMoniker": "Ticketing\\Web.config",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Web.config",
+              "RelativeToolTip": "Ticketing\\Web.config",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-09T16:21:33.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Ticketing\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\fabio\\source\\repos\\Ticketing\\Ticketing\\Global.asax.cs",
+              "RelativeToolTip": "Ticketing\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T16:21:49.867Z"
             }
           ]
         }
