@@ -1,0 +1,21 @@
+###########################
+# Visual Studio / ASP.NET #
+###########################
+
+# Visual Studio Cache/User Settings (THIS IS THE CRITICAL FIX)
+.vs/
+*.suo
+*.user
+
+# Build and Compilation Output
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.dll
+*.exe
+
+# NuGet Packages (These should be restored, not tracked)
+packages/
+
+# Test Results
+TestResults/
