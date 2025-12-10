@@ -40,11 +40,20 @@
 
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
             <div class="container">
+
+             <div id="LogoDgs">
+                 <asp:Image ID="Image1"
+                     runat="server"
+                     ImageUrl="~/Asset/Logo1.png"
+                     Height="40"
+                     Width="40"
+                     ImageAlign="Left"/>
+             </div>
+
                 <a class="navbar-brand" runat="server" href="~/">Ticketing App</a>
                 
                     
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                    
                 <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Dashboard">Home</a></li>
@@ -55,7 +64,7 @@
                 </div>
             </div>
            
-            <div>
+            <div id="NotificaLogo">
                  <asp:Image ID="LogoNotifica"
                      runat="server"
                      ImageUrl="~/Asset/Logo1.png"

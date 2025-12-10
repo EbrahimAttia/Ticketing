@@ -1,31 +1,32 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Ticketing.Login" %>
+﻿<%@ Page Language="C#"  MasterPageFile="~/Site.master"  AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Ticketing.Login" %>
 
-<!DOCTYPE html>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+        <div class="grid-button">
+            <div class="col-100">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head runat="server">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Login</title>
-</head>
-<body>
-    <form id="form1" runat="server">
-        <div>
-            <asp:textbox ID="user"
+            <asp:textbox ID="TUser"
                 runat="server"
-                placeholder="Username"></asp:textbox>
-            <asp:TextBox runat="server"
+                placeholder="Username">
+
+            </asp:textbox>
+            <asp:TextBox ID="TPass"
+                runat="server"
                 type="password"
-                placeholder="Password"></asp:TextBox>
-            <asp:Button ID="btnLogin" 
+                placeholder="Password">
+
+            </asp:TextBox>
+            </div>
+
+            <div class="grid-button">
+            <asp:Button ID="BLogin" 
                 Text="Invio"
                 runat="server"/>
-            <asp:Button ID="Button2" 
+            <asp:Button ID="BAnnulla" 
                 Text="Annulla"
                 runat="server"/>
-            <asp:Label id="Label"
-                text="Recupera Password"
-                runat="server" />
+            <asp:Button ID="BRP" 
+                Text="Recupera Password"
+                runat="server"/>
+           </div>
         </div>
-    </form>
-</body>
-</html>
+    </asp:Content>
