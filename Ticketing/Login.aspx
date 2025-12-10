@@ -22,14 +22,14 @@
      <asp:Button ID="Button1"
          Text="Invio"
          runat="server"
-         OnClick="btnLogin_Click" />
+         OnClick="BtnLogin_Click" />
 
      <asp:Button
          ID="btnAnnulla"
          Text="Annulla"
          runat="server"
          CausesValidation="false"
-         OnClick="btnAnnulla_Click" />
+         OnClick="BtnAnnulla_Click" />
 
      <asp:Label 
          ID="LblRecuperaPassword"
