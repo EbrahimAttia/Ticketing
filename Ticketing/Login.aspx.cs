@@ -14,11 +14,11 @@ namespace Ticketing
 
         }
 
-        protected void btnLogin_Click(object sender, EventArgs e)
+        protected void BtnLogin_Click(object sender, EventArgs e)
         {
 
         }
-        protected void btnAnnulla_Click(object sender, EventArgs e)
+        protected void BtnAnnulla_Click(object sender, EventArgs e)
         {
 
         }
