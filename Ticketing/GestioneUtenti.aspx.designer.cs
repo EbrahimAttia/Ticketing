@@ -195,30 +195,30 @@ namespace Ticketing
         protected global::System.Web.UI.WebControls.TextBox TComunicazione;
 
         /// <summary>
-        /// Controllo Button2.
+        /// Controllo BModifica.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button2;
+        protected global::System.Web.UI.WebControls.Button BModifica;
 
         /// <summary>
-        /// Controllo Button1.
+        /// Controllo BCrea.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button1;
+        protected global::System.Web.UI.WebControls.Button BCrea;
 
         /// <summary>
-        /// Controllo Button3.
+        /// Controllo BElimina.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Button3;
+        protected global::System.Web.UI.WebControls.Button BElimina;
     }
 }

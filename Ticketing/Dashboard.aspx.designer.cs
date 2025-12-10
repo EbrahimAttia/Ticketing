@@ -24,21 +24,21 @@ namespace Ticketing
         protected global::System.Web.UI.WebControls.Table Tickets;
 
         /// <summary>
-        /// Controllo Crea.
+        /// Controllo BCrea.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Crea;
+        protected global::System.Web.UI.WebControls.Button BCrea;
 
         /// <summary>
-        /// Controllo Storico.
+        /// Controllo BStorico.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button Storico;
+        protected global::System.Web.UI.WebControls.Button BStorico;
     }
 }

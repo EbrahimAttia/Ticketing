@@ -92,13 +92,13 @@
         </div>
 
 <div class="grid-button">
-<asp:Button ID="Button2" 
+<asp:Button ID="BModifica"
     Text="Modifica"
     runat="server"/>
-<asp:Button ID="Button1" 
+<asp:Button ID="BCrea"
     Text="Crea"
     runat="server"/>
-<asp:Button ID="Button3" 
+<asp:Button ID="BElimina"
     Text="Elimina"
     runat="server"/>
     </div>

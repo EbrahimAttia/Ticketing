@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" 
+<%@ Page Language="C#" 
     AutoEventWireup="true" 
     CodeBehind="Login.aspx.cs" 
     Inherits="Ticketing.Login"
