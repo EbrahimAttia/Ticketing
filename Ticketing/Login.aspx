@@ -1,32 +1,39 @@
-﻿<%@ Page Language="C#"  MasterPageFile="~/Site.master"  AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="Ticketing.Login" %>
+<%@ Page Language="C#" 
+    AutoEventWireup="true" 
+    CodeBehind="Login.aspx.cs" 
+    Inherits="Ticketing.Login"
+    MasterPageFile="~/Site.Master"%>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-        <div class="grid-button">
-            <div class="col-100">
+    
+     <div>
 
-            <asp:textbox ID="TUser"
-                runat="server"
-                placeholder="Username">
+     <asp:Textbox 
+         ID="txtUsername"
+         runat="server"
+         placeholder="Username" />
 
-            </asp:textbox>
-            <asp:TextBox ID="TPass"
-                runat="server"
-                type="password"
-                placeholder="Password">
+     <asp:TextBox
+         ID="txtPassword"
+         runat="server"
+         TextMode="Password"
+         placeholder="Password" />
 
-            </asp:TextBox>
-            </div>
+     <asp:Button ID="Button1"
+         Text="Invio"
+         runat="server"
+         OnClick="btnLogin_Click" />
 
-            <div class="grid-button">
-            <asp:Button ID="BLogin" 
-                Text="Invio"
-                runat="server"/>
-            <asp:Button ID="BAnnulla" 
-                Text="Annulla"
-                runat="server"/>
-            <asp:Button ID="BRP" 
-                Text="Recupera Password"
-                runat="server"/>
-           </div>
-        </div>
-    </asp:Content>
+     <asp:Button
+         ID="btnAnnulla"
+         Text="Annulla"
+         runat="server"
+         CausesValidation="false"
+         OnClick="btnAnnulla_Click" />
+
+     <asp:Label 
+         ID="LblRecuperaPassword"
+         text="Recupera Password"
+         runat="server" />
+ </div>
+</asp:Content>
