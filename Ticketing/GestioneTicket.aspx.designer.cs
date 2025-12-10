@@ -123,13 +123,13 @@ namespace Ticketing
         protected global::System.Web.UI.WebControls.Label LabelProdotto;
 
         /// <summary>
-        /// Controllo DropDownListProdotto.
+        /// Controllo ListaProdotto.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListProdotto;
+        protected global::System.Web.UI.WebControls.DropDownList ListaProdotto;
 
         /// <summary>
         /// Controllo LabelCategoria.
@@ -141,13 +141,31 @@ namespace Ticketing
         protected global::System.Web.UI.WebControls.Label LabelCategoria;
 
         /// <summary>
-        /// Controllo DropDownListCategoria.
+        /// Controllo ListaCategoria.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListCategoria;
+        protected global::System.Web.UI.WebControls.DropDownList ListaCategoria;
+
+        /// <summary>
+        /// Controllo LabelPriorita.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelPriorita;
+
+        /// <summary>
+        /// Controllo ListaPriorita.
+        /// </summary>
+        /// <remarks>
+        /// Campo generato automaticamente.
+        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ListaPriorita;
 
         /// <summary>
         /// Controllo LabelOggetto.
@@ -186,49 +204,31 @@ namespace Ticketing
         protected global::System.Web.UI.WebControls.TextBox TextBoxMessaggio;
 
         /// <summary>
-        /// Controllo CreaMesaggio.
+        /// Controllo ButtonCreaMesaggio.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button CreaMesaggio;
+        protected global::System.Web.UI.WebControls.Button ButtonCreaMesaggio;
 
         /// <summary>
-        /// Controllo ModificaMessaggio.
+        /// Controllo ButtonModificaMessaggio.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ModificaMessaggio;
+        protected global::System.Web.UI.WebControls.Button ButtonModificaMessaggio;
 
         /// <summary>
-        /// Controllo EliminaMessaggio.
+        /// Controllo ButtonEliminaMessaggio.
         /// </summary>
         /// <remarks>
         /// Campo generato automaticamente.
         /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button EliminaMessaggio;
-
-        /// <summary>
-        /// Controllo LabelPriorita.
-        /// </summary>
-        /// <remarks>
-        /// Campo generato automaticamente.
-        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label LabelPriorita;
-
-        /// <summary>
-        /// Controllo DropDownListPriorit.
-        /// </summary>
-        /// <remarks>
-        /// Campo generato automaticamente.
-        /// Per la modifica, spostare la dichiarazione di campo dal file di progettazione al file code-behind.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.DropDownList DropDownListPriorit;
+        protected global::System.Web.UI.WebControls.Button ButtonEliminaMessaggio;
 
         /// <summary>
         /// Controllo LabelComunicazione.
