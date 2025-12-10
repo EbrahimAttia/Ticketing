@@ -12,8 +12,9 @@
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
 
-    <webopt:bundlereference runat="server" path="~/Content/css" />
+    <webopt:bundlereference runat="server" path="~/Content/GestioneTicket.css" />
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    
 
 </head>
 <body>
@@ -49,7 +50,7 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Dashboard">Home</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/GestioneTicket">Ticket</a></li>
-                        <li class="nav-item"><a class="nav-link" runat="server" href="~/GestioneUtente">Utente</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/GestioneUtenti">Utenti</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/GestioneSocieta">Società</a></li>
                     </ul>
                 </div>
@@ -57,6 +58,8 @@
         </nav>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+
+
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
