@@ -3,104 +3,104 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent"
     Runat="Server">
     <div style="display: flex; flex-direction: column;">
-        <asp:Label ID="Label1"
+        <asp:Label ID="LId"
     Text="Id"
     runat="server"/>
-  <asp:TextBox ID="TextBox1"
+  <asp:TextBox ID="Tid"
       runat="server"
       placeholder="Id">
   </asp:TextBox>
-<asp:Label ID="Label2"
+<asp:Label ID="LCliente"
     Text="Cliente"
     runat="server"/>
-<asp:TextBox ID="TextBox2"
+<asp:TextBox ID="TCliente"
     runat="server"
     placeholder="Cliente">
 </asp:TextBox>
-<asp:Label ID="Label3"
+<asp:Label ID="LTecnico"
     Text="Tecnico"
     runat="server"/>
-<asp:TextBox ID="TextBox3"
+<asp:TextBox ID="TTecnico"
     runat="server"
     placeholder="Tecnico">
 </asp:TextBox>
-<asp:Label ID="Label4"
+<asp:Label ID="LLivello"
     Text="Livello"
     runat="server"/>
-<asp:TextBox ID="TextBox4"
+<asp:TextBox ID="TLivello"
     runat="server"
     placeholder="Livello">
 </asp:TextBox>
-<asp:Label ID="Label5"
+<asp:Label ID="LStato"
     Text="Stato"
     runat="server"/>
-<asp:DropDownList ID="DropDownList1"
+<asp:DropDownList ID="DStato"
     runat="server">
         <asp:ListItem>Item1</asp:ListItem>
         <asp:ListItem>Item2</asp:ListItem>
         <asp:ListItem>Item3</asp:ListItem>
 </asp:DropDownList>
-<asp:Label ID="Label6"
+<asp:Label ID="LProdotto"
     Text="Prodotto"
     runat="server"/>
-<asp:DropDownList ID="DropDownList2"
+<asp:DropDownList ID="DProdotto"
     runat="server">
         <asp:ListItem>Prodotto1</asp:ListItem>
         <asp:ListItem>Prodotto2</asp:ListItem>
         <asp:ListItem>Prodotto3</asp:ListItem>
 </asp:DropDownList>
-<asp:Label ID="Label7"
+<asp:Label ID="LCategoria"
     Text="Categoria"
     runat="server"/>
-<asp:DropDownList ID="DropDownList3"
+<asp:DropDownList ID="DCategoria"
     runat="server">
         <asp:ListItem>Categoria1</asp:ListItem>
         <asp:ListItem>Categoria2</asp:ListItem>
         <asp:ListItem>Categoria3</asp:ListItem>
 </asp:DropDownList>
-<asp:Label ID="Label8"
+<asp:Label ID="LOggetto"
     Text="Oggetto"
     runat="server"/>
-<asp:TextBox ID="TextBox5"
+<asp:TextBox ID="TOggetto"
     runat="server"
     placeholder="Oggetto">
 </asp:TextBox>
-<asp:Label ID="Label9"
+<asp:Label ID="LMessaggio"
     Text="Messaggio"
     runat="server"/>
-<asp:TextBox ID="TextBox6"
+<asp:TextBox ID="TMessaggio"
     runat="server"
     placeholder="Messaggio">
 </asp:TextBox>
-<asp:Button ID="Button1" 
+<asp:Button ID="BCrea" 
     Text="Crea"
     runat="server"/>
-<asp:Button ID="Button2" 
+<asp:Button ID="BModifica" 
     Text="Modifica"
     runat="server"/>
-<asp:Button ID="Button3" 
+<asp:Button ID="BElimina" 
     Text="Elimina"
     runat="server"/>
- <asp:Label ID="Label10"
+ <asp:Label ID="LPriorita"
     Text="Priorita"
     runat="server"/>
-<asp:DropDownList ID="DropDownList4"
+<asp:DropDownList ID="DPriorita"
     runat="server">
         <asp:ListItem>Priorita1</asp:ListItem>
         <asp:ListItem>Priorita2</asp:ListItem>
         <asp:ListItem>Priorita3</asp:ListItem>
 </asp:DropDownList>
- <asp:Label ID="Label11"
+ <asp:Label ID="LComunicazione"
     Text="Comunicazione"
     runat="server"/>
-<asp:TextBox ID="TextBox7"
+<asp:TextBox ID="TComunicazione"
     runat="server"
     placeholder="Comunicazione">
 </asp:TextBox>
-<asp:Button ID="Button4" 
+<asp:Button ID="BStorico" 
     Text="Storico"
     runat="server"/>
-<asp:Button ID="Button5" 
+<asp:Button ID="BRisposta" 
     Text="Invia Risposta"
     runat="server"/>
 </div>
