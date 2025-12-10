@@ -7,7 +7,7 @@ namespace Ticketing.Models
 {
     public class Utente
     {
-        private int ID; {  get; set; }
+        private int ID {  get; set; }
         private string Nome { get; set; }
         private string Cognome { get; set; }
         private int Ruolo { get; set; }
